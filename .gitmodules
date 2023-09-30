@@ -79,9 +79,6 @@
 [submodule "framework/plasma-wayland-protocols"]
 	path = framework/plasma-wayland-protocols
 	url = https://github.com/JingOS-team/plasma-wayland-protocols.git
-[submodule "framework/jappmanager"]
-	path = framework/jappmanager
-	url = https://github.com/JingOS-team/jappmanager.git
 [submodule "apps/qaptupdator"]
 	path = apps/qaptupdator
 	url = https://github.com/JingOS-team/qaptupdator.git
